@@ -41,5 +41,4 @@ cc_library_shared {
 
 subdirs = [
     "modules/*",
-    "tests/*",
 ]
